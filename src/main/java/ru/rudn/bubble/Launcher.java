@@ -5,6 +5,7 @@ package ru.rudn.bubble;
  */
 public class Launcher {
     public static void main(String[] args){
-        System.out.println("Fuck the world!");
+        System.out.println("DryFear: Fuck the world!");
+        System.out.println("Rexhaif: loli, you can't fuck it");
     }
 }
